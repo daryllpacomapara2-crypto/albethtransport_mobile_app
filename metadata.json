@@ -1,0 +1,6 @@
+{
+  "name": "ALBETH TRANSPORT - Car Rental & GPS Tracking",
+  "description": "Premium car rental mobile application for ALBETH TRANSPORT with real-time vehicle booking, reservation management, and integrated live GPS tracking for return and pickup locations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
